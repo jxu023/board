@@ -1,0 +1,3 @@
+class Baduk : public board {
+	
+}
